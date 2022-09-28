@@ -1,0 +1,4 @@
+track_name track_counter mean_score
+курс 2 4
+course 2 3.5
+track 1 1
