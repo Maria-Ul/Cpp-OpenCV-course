@@ -1,1 +1,1 @@
-C++ and openCV course
+C++ course
