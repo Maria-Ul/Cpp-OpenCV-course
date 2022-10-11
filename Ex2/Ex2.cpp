@@ -118,11 +118,12 @@ void simple_func_2(vector<float>::iterator ptr_Mean_Score_begin,
 }
 int main()
 {
+    cout << "ex 2 run"<< endl;
 //read file
     string line;
     vector<string> track_name;
     vector<float> mean_score;
-    ifstream myfile ("/Users/mariaulanova/CLionProjects/Cpp-OpenCV/input_file_ex2");
+    ifstream myfile ("Ex2/input_file_ex2");
     if (myfile.is_open())
     {
         while ( getline (myfile,line) )

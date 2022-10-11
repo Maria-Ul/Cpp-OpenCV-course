@@ -1,6 +1,16 @@
 # ninja log v5
+2549	2665	1665070746353613652	Cpp_OpenCV	f6eef6d2a2de56cb
+2	795	1664879959720003975	CMakeFiles/Cpp_OpenCV.dir/Sub_ex_3/Sub_ex_3.cpp.o	6c451f50a3d59718
+2668	6967	1665067986456831548	CMakeFiles/Cpp_OpenCV.dir/Ex3/spherical_surface.cpp.o	91c6381c71e23111
 0	1218	1664270336268287428	CMakeFiles/Cpp_OpenCV.dir/Sub_ex_3.cpp.o	3caf296e40467cff
-739	799	1664270422229549783	Cpp_OpenCV	b0699b665c217027
-2	739	1664270422164932552	CMakeFiles/Cpp_OpenCV.dir/Sub_ex_3/Sub_ex_3.cpp.o	ee363b0f558592b1
+13	3023	1665070714127402803	CMakeFiles/Cpp_OpenCV.dir/Ex3/lens.cpp.o	8cee96fe1c2007d8
+2	2395	1664540371959003960	CMakeFiles/Cpp_OpenCV.dir/Ex2/Ex2.cpp.o	c62bab4432623722
+3	1324	1664960081920300662	CMakeFiles/Cpp_OpenCV.dir/Sub_ex_3/color_cpp_file.cpp.o	baab6f7f0a7b2453
 0	730	1664012383141804537	CMakeFiles/Cpp_OpenCV.dir/main.cpp.o	658ba8a6aedea4fb
-0	127	1664384584553182045	build.ninja	d54f225607b187f5
+13	1393	1665070712500941597	CMakeFiles/Cpp_OpenCV.dir/Ex3/paraxial.cpp.o	4fc9dd36e0507730
+10	456	1665078894292938886	build.ninja	d54f225607b187f5
+8	2549	1665070746222602886	CMakeFiles/Cpp_OpenCV.dir/Ex3/second_main.cpp.o	c38c343baad4aa4
+0	2036	1664705420463422731	CMakeFiles/Cpp_OpenCV.dir/Ex3/example.cpp.o	b83451bb32b01717
+8	4606	1664706016430339692	CMakeFiles/Cpp_OpenCV.dir/Ex3/test-boost.cpp.o	1e2a7caf9753b497
+13	2956	1664826025421583988	CMakeFiles/Cpp_OpenCV.dir/Ex3/simple_main.cpp.o	6fa07aea8810dc2e
+4	5487	1665067984974078607	CMakeFiles/Cpp_OpenCV.dir/Ex3/surface.cpp.o	98779ed8c8cf1614
